@@ -1,3 +1,8 @@
 Les commandes de bases Git
 Commencer par lancer un git bash et taper les commandes suivantes:
 1-git init
+2-git add --all /.
+3-git status
+4-git commit -m"votre message"
+5-git remote add origin https://.......
+6-git push -u origin master
