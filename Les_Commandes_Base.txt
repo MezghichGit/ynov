@@ -5,4 +5,9 @@ Commencer par lancer un git bash et taper les commandes suivantes:
 3-git status
 4-git commit -m"votre message"
 5-git remote add origin https://.......
-6-git push -u origin master
+6-git push -u origin master; création d'une nouvelle branche en remote et push sur cette dernière
+7-git push
+8-git branch : lister toutes les branches du repo
+9-git branch dev : créer la branche dev
+10-git checkout dev : changer de branch( de master vers dev)
+11-git clone https://github.com/MezghichGit/ynov.git
