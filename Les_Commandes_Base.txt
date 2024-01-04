@@ -11,3 +11,4 @@ Commencer par lancer un git bash et taper les commandes suivantes:
 9-git branch dev : créer la branche dev
 10-git checkout dev : changer de branch( de master vers dev)
 11-git clone https://github.com/MezghichGit/ynov.git
+12-git revert
