@@ -1,2 +1,4 @@
 1-docker images
 2-docker ps
+3-docker rmi
+4-docker rm
