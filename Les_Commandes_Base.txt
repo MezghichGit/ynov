@@ -1,0 +1,3 @@
+Les commandes de bases Git
+Commencer par lancer un git bash et taper les commandes suivantes:
+1-git init
